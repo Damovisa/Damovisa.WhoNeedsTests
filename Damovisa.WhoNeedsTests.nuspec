@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Damovisa.WhoNeedsTests</id>
+    <version>1.0.0</version>
+    <authors>Damian Brady</authors>
+    <owners>Damian Brady</owners>
+    <licenseUrl>https://github.com/Damovisa/Damovisa.WhoNeedsTests/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Damovisa/Damovisa.WhoNeedsTests</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A replacement for Assert that lets you pass all your tests and maintain code coverage. YES, THIS IS A JOKE.</description>
+    <copyright>Copyright 2017. Kind of. I mean, feel free to copy it if you like.</copyright>
+  </metadata>
+  <files>
+    <file src="Damovisa.WhoNeedsTests\bin\Release\Damovisa.WhoNeedsTests.dll" target="lib\netstandard1.0" />
+  </files>
+</package>
